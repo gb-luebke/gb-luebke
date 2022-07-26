@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gb-luebke
 - 👀 I’m interested in learning schedule
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on any projects that can make me improve my skills
 - 📫 How to reach me @gb_luebke
 
