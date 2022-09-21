@@ -8,7 +8,7 @@ Always searching cool projects to work on :student:
 
 I´m learning at the moment **Mongodb, Firebase**
 
-How to **find me** :earth_americas:
+ :earth_americas: How to **find me**
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Gb_luebke) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-luebke/) 
