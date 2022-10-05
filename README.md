@@ -4,6 +4,8 @@ Front-end Developer
 
 A junior searching for opportunities :stuck_out_tongue_closed_eyes:
 
+Check my portfolio
+
 Always searching cool projects to work on :student:
 
 I´m learning at the moment **Mongodb, Firebase**
